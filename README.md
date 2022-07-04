@@ -2,6 +2,7 @@
 
 Bước 1: cài đặt các package
 ```
+npm install packages
 npm install @react-navigation/native
 expo install react-native-screens react-native-safe-area-context
 npm install @react-navigation/native-stack
